@@ -88,5 +88,5 @@ You can even make it convert the text to HTML like this:
 -   the HTML / Vue:
 
 ```html
-<div v-html='LocalesClient.get(LocalesKeys.EXAMPLE_KEY), "Test"'/>
+<div v-html='LocalesClient.get(LocalesKeys.EXAMPLE_KEY, "Test")'/>
 ```

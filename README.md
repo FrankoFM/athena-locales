@@ -6,10 +6,10 @@ This is a modified version of the [Athena Locales System](https://github.com/Stu
 
 ## Features
 
--   Its a plugin so that you dont have to modify the core (prevents merging errors on Athena updates)
--   Each player can play in there native language (given you provide the translation)
--   You can use the placeholder feature in webviews (more infos about that down below)
--   Uses the AgendaSystem to load the players prefered language when he connects
+-   It's a plugin so that you don't have to modify the core (prevents merging errors on Athena updates)
+-   Each player can play in their native language (given you provide the translation)
+-   You can use the placeholder feature in webviews (more info about that down below)
+-   Uses the AgendaSystem to load the player's preferred language when he connects
 
 ## Usage
 
